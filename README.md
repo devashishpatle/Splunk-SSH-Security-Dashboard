@@ -26,11 +26,13 @@ Dashboards
 **Step 4:** Create the Dashboard
 
 Create New Dashboard
+![Create New Dashboard](Create-New-Dashboard.png)
 
 **Step 5:** After clicking Create, you will see your empty dashboard.
 
 Click:
 Add Panel
+![Add Panel](Add-panel.png)
 
 You will get the panel menu
 
@@ -47,7 +49,8 @@ Line Chart
 .
 
 .
-
+![Add Panel with SPL](Add-panel-New.png)
+![Add Panel with SPL](Add-panel-New-SPL-Command.png)
 For your project, select the visualization according to the panel.
 
 # SPL-Queries-&-Dashboard-Panels
